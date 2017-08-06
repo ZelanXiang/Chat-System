@@ -1,2 +1,2 @@
 # Chat-System
-this is for seng299 project. 
+this is for UVic SENG 299 project.
